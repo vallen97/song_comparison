@@ -1,4 +1,4 @@
-#Song Comparison
+# Song Comparison
 
 This application is made using python 3, and it compares two songs together. It uses genius' song lyrics and plotly to plot words, and it generates a summary on the lyrics. 
 
@@ -14,10 +14,12 @@ pip3 install BeautifulSoup
 pip3 install numpy
 pip3 install networkx
 pip3 install nltk
-    In idle shell:
-        import nltk, press enter
-        nltk.download(), press enter
-        a graphical interface will show, click all and click download
+```
+In idle shell:
+    import nltk, press enter
+    nltk.download(), press enter
+    a graphical interface will show, click all and click download
+```
 pip3 install dash==0.42.0
 pip3 install dash-daq==0.1.0
 ```
