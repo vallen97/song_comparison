@@ -28,7 +28,7 @@ In idle shell:
 
 ##  Run Project
 
-Console
+In Console
 ```
 python3 song_comparison.py
 ```
@@ -38,17 +38,9 @@ python3 song_comparison.py
 * [Dash](https://plot.ly/) - Framework for Building Analytic Web Apps
 
 
-## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
-
 ##  Authors
 
 **Vaughn Allen**
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
