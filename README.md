@@ -19,6 +19,7 @@ pip3 install dash-daq==0.1.0
 pip3 install nltk
 ```
 In idle shell:
+
    import nltk, press enter
     
    nltk.download(), press enter
