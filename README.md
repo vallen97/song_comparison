@@ -20,11 +20,11 @@ pip3 install nltk
 ```
 In idle shell:
 
-   import nltk, press enter
+* import nltk, press enter
     
-   nltk.download(), press enter
+* nltk.download(), press enter
     
-   a graphical interface will show, click all and click download
+* a graphical interface will show, click all and click download
 
 
 ##  Run Project
