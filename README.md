@@ -26,9 +26,12 @@ In idle shell:
    a graphical interface will show, click all and click download
 
 
-##  Running the tests
+##  Run Project
 
-Console python3 song_comparison.py
+Console
+```
+python3 song_comparison.py
+```
 
 ##  Built With
 * [NLTK(Natural Language Tool Kit)](https://www.nltk.org/) - Human Language Data
