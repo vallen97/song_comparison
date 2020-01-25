@@ -4,6 +4,7 @@ This application is made using python 3, and it compares two songs together. It 
 
 ## Getting Started
 To run this project Python 3.6 needs to be installed. https://www.python.org/downloads/release/python-360/
+
 A Genius API key is needed https://docs.genius.com/
 
 ## Prerequisites
