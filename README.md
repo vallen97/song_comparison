@@ -29,7 +29,7 @@ pip3 install nltk
 
 ##  Run Project
 
-In Console
+In Console:
 ```
 python3 song_comparison.py
 ```
